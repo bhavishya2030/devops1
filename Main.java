@@ -1,6 +1,7 @@
-import java.util.*;
-class Main{
-	public static void main(String[] args){
-		System.out.println("Lab external");
-}
-}
+class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First Java Program.");
+    }
+};
